@@ -1,0 +1,5 @@
+[sentence]: "{}"
+This is a pun sentence. Identify the specific word or phrase that creates the pun.
+
+Respond with only the word or phrase that makes it a pun, without any explanation.
+[answer]: "<Insert word or phrase here>"

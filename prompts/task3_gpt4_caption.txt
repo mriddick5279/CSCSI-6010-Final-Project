@@ -1,0 +1,8 @@
+Please translate the following sentence from {lang} into English, ensuring that the translation contains a pun.
+I will provide you with a sentence in {lang} using the format [{lang}]: "{sentence}".
+[Image Description]: {caption}
+This image description is about two meanings of word that you are expected to create has.
+Use this information to craft your pun-inclusive English translation.
+
+Please respond using the format below:
+[English]: "<Insert English pun sentence here>"

@@ -1,0 +1,10 @@
+[sentence 1] : "{pun_sentence}"
+[sentence 2] : {recon_sentence}
+
+The pun in [Sentence 1] revolves around the word [{pun_phrase}], which can be interpreted as following two meanings:
+1. {description_1}
+2. {description_2}
+
+Does [sentence 2] share the same pun with [sentence 1]? Consider the following steps:
+Question 1. Is there a word or phrase in [Sentence 2] that functions as a pun? Provide a brief explanation.
+Question 2. do [sentence 1] and [sentence 2] share the same pun? Please answer with 'yes' or 'no'.

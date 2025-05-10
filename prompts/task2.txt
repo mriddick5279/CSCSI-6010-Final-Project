@@ -1,0 +1,6 @@
+
+[English]: "{sentence}".
+Translate the given english sentence into {lang}, given the image as context: "{caption}".
+
+Please respond using the format below:
+[{lang}]: "<Insert translation here>"

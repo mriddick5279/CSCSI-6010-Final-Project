@@ -1,0 +1,9 @@
+[description]: "{}"
+This is the description of a meme.
+
+[text]: "{}"
+This is the text in the meme.
+
+Identify the sentiment of the image as either negative, neutral, or positive.
+Respond with just negative, neutral, or positive without any explanation.
+[answer]: "<Insert word negative, neutral, or positive here>"
